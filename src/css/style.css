@@ -1,0 +1,32 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/* Small devices (landscape phones) */
+@media (min-width:576px) {
+  body{
+
+  }
+}
+
+/* Medium devices (tablets) */
+@media (min-width:768px) {
+  body{
+
+  }
+}
+
+/* Large devices (desktops) */
+@media (min-width:992px) {
+  body{
+
+  }
+}
+
+/* Extra large devices (large desktops) */
+@media (min-width:1200px) {
+  body{
+
+  }
+}
